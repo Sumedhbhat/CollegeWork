@@ -21,7 +21,6 @@ int main() {
 #pragma omp critical
       ans += sum;
     }
-    
   }
 printf("The total sum is %d\n", ans);
     for (int i=0; i<sec; i++) {
