@@ -46,4 +46,70 @@ They break into secure networks to destroy data or to make network unusable for 
 *** Man in the middle attack
 *** Internet Applications
 * The united States Counter Attack on Afghanistan
-*
+* Social Engineering
+** Its the art of manipulating someone to divulge sensitive or confidential information that can be used for fraudulent purposes
+** How social engineering works
+*** Sabotage - Disrupting or corrupting data
+*** Theft - Obtaining valuable info
+** Stages of social Engineering
+*** Prepare - Background information
+*** Infiltrate - Establishing a relationship
+*** Exploit the victim - Advance the attack
+*** Disengage - Take the desired action
+** Examples
+*** On the phone like getting a call from someone you might know
+*** In the office
+*** Online
+** Types
+*** Phishing
+*** Spear Phishing
+*** Baiting
+*** Malware
+*** Pretexting
+*** Quid Pro Quo
+*** Tailgating
+*** Vishing
+* Classification of Cybercrime
+*** Cyber crime again individual
+**** Email Spoofing
+**** Spamming
+**** Cyber Defamation
+**** Harassment and Cyber Stalking
+**** Cyber Stalking
+**** Cyber Pornography
+Section 67 of IT Act, 2000 making transmitting and distribution of cyber pornography is an offense
+*** Cyber crime again property
+**** Credit Card Fraud
+**** Intellectual property crimes
+***** Software piracy
+***** Copyright infringment
+***** Trademark violations
+***** Theft of computer source code
+**** Internet time theft
+Usage of internet hours by an unauthorized person
+**** Types
+***** Flooding - DOS attacks
+***** Virus and worm production - Cyberspace vandalism
+***** Spoofing - using others identity
+***** Phreaking - making free telephone calls
+***** Infringing intellectual Property rights and copyrights - copying targets information or software
+*** Cyber crime again organization
+**** Unauthorized access of computer
+**** DOS Attacks
+**** Virus Attacks
+**** Trojan Horse - looks legitimate but can take control of a computer. Damage disrupt and steal or in general inflict some other harmful action
+**** Logic Bomb - Setting off malfunction intentionally when certain conditions are met.
+**** Email Bombing - Attack against email inbox inhibiting the servers normal function
+**** Salami Attack - Smaller attacks that together cause a large scale attack
+**** Data diddling - Illegal or unauthorized data alteration
+*** Cyber crime again society
+**** Forgery
+**** Cyber terrorism
+**** Web Jacking - hackers gain access or control over the websites of another
+* Technical Non offenses
+** Hacktivism
+** Cyber vigilantism
+* Using Anonymity to Conceal Cybercrimes
+*** Anonymous remailers
+*** Anonymous digital cash
+*** Computer penetration and looping
