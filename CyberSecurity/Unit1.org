@@ -1,0 +1,37 @@
+#+title: Unit 1 Notes Cyber security
+
+* Categories of Cyber Crime
+** The computer as a target
+** The computer as a weapon
+* Advantages of Cyber security
+* Safety tips to cyber crime
+* Phishing
+** A deception designed to steal personal data such as credit card numbers, passwords, account data or any other information
+** Prevention
+*** Use strong password
+*** Secure your computer
+*** Secure your mobile devices
+*** Secure wireless network
+*** Protect your identity
+*** Install latest OS
+* Cybercrime
+** Crime related to technology, computers and the internet
+** Types of Cyber crime
+*** Cracking
+*** Piracy
+*** Phreaking
+*** CyberStalking
+*** Cyber pornography
+*** Cyber Terrorism
+** Scope of Cyber Security
+*** Techniques of threat and attack analysis and mitigation
+*** Protection and recovery technologies, processes and procedures for individuals, business and governments
+*** Policies, laws and regulation relevant to the use of computers and the Internet
+* Hacking
+** Types of hackers
+*** White hat hacker - Ethical computer hacker
+*** Black hat hacker - illegal hacker
+A hacker who violates computer security for little reason beyond maliciousness and personal gain.
+They break into secure networks to destroy data or to make network unusable for those who are authorized to use the network
+*** Grey hat hacker - activities that fall somewhere between black and white hackers
+**
