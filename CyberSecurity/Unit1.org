@@ -34,4 +34,16 @@
 A hacker who violates computer security for little reason beyond maliciousness and personal gain.
 They break into secure networks to destroy data or to make network unusable for those who are authorized to use the network
 *** Grey hat hacker - activities that fall somewhere between black and white hackers
-**
+** Pre-hacking stage
+*** Targeting
+*** Research and Information Gathering
+*** Finishing the attack
+** Domains affected by hacking
+*** Mobile Hacking
+*** Email hacking
+*** Data Stealing
+*** Injecting viruses and Trojans
+*** Man in the middle attack
+*** Internet Applications
+* The united States Counter Attack on Afghanistan
+*
